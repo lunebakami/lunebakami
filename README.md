@@ -22,10 +22,11 @@ const aboutMe = {
             css: {
                 tech: "Bootstrap",
                 level: 6,
-            }
+            },
         },
         backEnd: {
-            js: [{
+            js: [
+            {
                 tech: "Node",
                 level: 8,
             }, 
