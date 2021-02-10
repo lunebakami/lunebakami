@@ -9,7 +9,6 @@
 
 <h3> 💻 &nbsp;Tech Stack</h3>
 
-<br/>
 ```javascript
 const aboutMe = {
     devLevel: "Junior",
