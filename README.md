@@ -9,7 +9,6 @@
 
 <h3> 💻 &nbsp;Tech Stack</h3>
 
-<br/>
 ```javascript
 const aboutMe = {
     devLevel: "Junior",
@@ -23,10 +22,11 @@ const aboutMe = {
             css: {
                 tech: "Bootstrap",
                 level: 6,
-            }
+            },
         },
         backEnd: {
-            js: [{
+            js: [
+            {
                 tech: "Node",
                 level: 8,
             }, 
