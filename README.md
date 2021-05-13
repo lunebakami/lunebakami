@@ -38,7 +38,7 @@ const aboutMe = {
         databases: ["MongoDB", "mySQL", "PostgreSQL"],
         mobile: ["Android", "React Native"],
     },
-    currentOccupation: "Back End developer at OSF Digital",
+    currentOccupation: "Back End developer at Urbis",
     futureThoughts: "Learn about VueJS, GraphQL, AWS and Docker.",
     hoobies: ["Play any game with Friends. 🎮", "Watch anime. 🎞", "Play guitar! 🎸"],
 };
