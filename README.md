@@ -4,8 +4,8 @@
 
 - 💖 &nbsp; I love Backend Techs but I also like Frontend techs, I really would like to work as a FullStack Dev.
 - 🎓 &nbsp; Studying Software Engineering at Federal University of Ceará.
-- 💼 &nbsp; Working as a BackEnd Developer at OSF Digital.
-- 🌱 &nbsp; Learning more about Android Development and Data Structures.
+- 💼 &nbsp; Working as a BackEnd Developer at Urbis.
+- 🌱 &nbsp; Learning more about React Native.
 
 <h3> 💻 &nbsp;Tech Stack</h3>
 
