@@ -11,36 +11,58 @@
 
 ```javascript
 const aboutMe = {
-    devLevel: "Junior",
-    code: [Javascript, HTML, CSS],
-    technologies: { //Max Level = 10
-        frontEnd: { 
-            js: {
-                tech: "React",
-                level: 6,
-            },
-            css: {
-                tech: "Bootstrap",
-                level: 6,
-            },
+  devLevel: 'Junior',
+  code: [Javascript, HTML, CSS],
+  technologies: {
+    //Max Level = 10
+    frontEnd: {
+      js: [
+        {
+          tech: 'React',
+          level: 7,
         },
-        backEnd: {
-            js: [
-            {
-                tech: "Node",
-                level: 8,
-            }, 
-            {
-                tech: "Express",
-                level: 8,
-            }],
+        {
+          tech: 'NextJs',
+          level: 5,
         },
-        databases: ["MongoDB", "mySQL", "PostgreSQL"],
-        mobile: ["Android", "React Native"],
+      ],
+      css: [
+        {
+          tech: 'Bootstrap',
+          level: 6,
+        },
+        {
+          tech: 'Tailwind',
+          level: 6,
+        },
+      ],
     },
-    currentOccupation: "Back End developer at Urbis",
-    futureThoughts: "Learn about VueJS, GraphQL, AWS and Docker.",
-    hoobies: ["Play any game with Friends. 🎮", "Watch anime. 🎞", "Play guitar! 🎸"],
+    backEnd: {
+      js: [
+        {
+          tech: 'Node',
+          level: 8,
+        },
+        {
+          tech: 'Express',
+          level: 8,
+        },
+        {
+          tech: 'NestJS',
+          level: 7,
+        },
+      ],
+    },
+    databases: ['MongoDB', 'mySQL', 'PostgreSQL'],
+    mobile: ['Android', 'React Native'],
+  },
+  currentOccupation: 'Full Stack developer at Urbis',
+  futureThoughts: 'Learn about VueJS, GraphQL, AWS and Docker.',
+  hobbies: [
+    'Play any game with Friends. 🎮',
+    'Watch anime. 🎞',
+    'Play guitar! 🎸',
+  ],
 };
 ```
 
